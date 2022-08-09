@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🙋‍ Our organization aims for sharing some programming skills and providing some useful projects or plugins for other programmer.
+🙋‍ Our organization aims for sharing some programming skills and providing some useful projects or plugins for other programmers.
 
 
 <!--
